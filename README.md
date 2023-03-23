@@ -27,4 +27,12 @@ Launch
 
 ### Design for good user experience
 
+1. Understand
+2. Specify
+3. Design
+4. Evaluate
+
+
+
+
 
